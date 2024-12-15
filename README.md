@@ -9,7 +9,7 @@ I'm a **Lead Engineer** and **Senior iOS Developer** with over 11 years of exper
 - **iOS Development**: Proficient in Swift, SwiftUI, Objective-C, and Combine.
 - **Problem Solving**: Enthusiastic about tackling algorithmic challenges; active on [LeetCode](https://leetcode.com/u/Rubiya1090).
 - **AI & Machine Learning**: Currently exploring AI and ML to integrate intelligent solutions into mobile apps.
-- **Chess Enthusiast**: Avid player with a 1400 rating on [Chess.com](https://www.chess.com/stats/overview/rubiyatw).
+- **Chess Enthusiast**: Avid player with a 1400 rating on [Chess.com](https://www.chess.com/stats/overview/rubiyatw/0?).
 
 ## 🔭 Current Projects
 
