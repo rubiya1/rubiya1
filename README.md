@@ -35,10 +35,6 @@ I'm a **Lead Engineer** and **Senior iOS Developer** with over 11 years of exper
 ![Combine](https://img.shields.io/badge/Combine-5C2D91?style=for-the-badge&logo=apple&logoColor=white)
 ![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=ai&logoColor=white)
 
-## 📈 GitHub Stats
-
-![Rubiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubiya1&show_icons=true&theme=radical)
-
 ## 🏆 Achievements
 
 - **Super App Development**: Delivered a multi-service app integrating real-time updates.
